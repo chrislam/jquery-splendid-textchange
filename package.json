@@ -1,0 +1,27 @@
+{
+  "name": "jquery-splendid-textchange",
+  "version": "1.2.0-alpha.2",
+  "description": "A near-perfect oninput shim for IE 8 and 9",
+  "main": "jquery.splendid.textchange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrislam/jquery-splendid-textchange.git"
+  },
+  "keywords": [
+    "jquery",
+    "textchange"
+  ],
+  "contributors": [
+      "Ben Alpert <ben@benalpert.com>",
+      "Milan Gardian <milang@pandell.com>",
+      "John Gozde <johng@pandell.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrislam/jquery-splendid-textchange/issues"
+  },
+  "homepage": "https://github.com/chrislam/jquery-splendid-textchange#readme"
+}
